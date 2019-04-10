@@ -1,0 +1,14 @@
+C:\azure2019\dotnetapi\obj\Debug\netcoreapp2.2\dotnetapi.csprojAssemblyReference.cache
+C:\azure2019\dotnetapi\obj\Debug\netcoreapp2.2\dotnetapi.csproj.CoreCompileInputs.cache
+C:\azure2019\dotnetapi\obj\Debug\netcoreapp2.2\dotnetapi.RazorAssemblyInfo.cache
+C:\azure2019\dotnetapi\obj\Debug\netcoreapp2.2\dotnetapi.RazorAssemblyInfo.cs
+C:\azure2019\dotnetapi\obj\Debug\netcoreapp2.2\dotnetapi.AssemblyInfoInputs.cache
+C:\azure2019\dotnetapi\obj\Debug\netcoreapp2.2\dotnetapi.AssemblyInfo.cs
+C:\azure2019\dotnetapi\bin\Debug\netcoreapp2.2\dotnetapi.deps.json
+C:\azure2019\dotnetapi\bin\Debug\netcoreapp2.2\dotnetapi.runtimeconfig.json
+C:\azure2019\dotnetapi\bin\Debug\netcoreapp2.2\dotnetapi.runtimeconfig.dev.json
+C:\azure2019\dotnetapi\bin\Debug\netcoreapp2.2\dotnetapi.dll
+C:\azure2019\dotnetapi\bin\Debug\netcoreapp2.2\dotnetapi.pdb
+C:\azure2019\dotnetapi\obj\Debug\netcoreapp2.2\dotnetapi.RazorTargetAssemblyInfo.cache
+C:\azure2019\dotnetapi\obj\Debug\netcoreapp2.2\dotnetapi.dll
+C:\azure2019\dotnetapi\obj\Debug\netcoreapp2.2\dotnetapi.pdb
